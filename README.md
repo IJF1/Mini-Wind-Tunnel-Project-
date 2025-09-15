@@ -5,7 +5,7 @@ The project combines hands-on engineering, experimental testing, and self-learni
 
 ---
 
-## 📂 Project Overview
+## Project Overview
 
 ### Wind Tunnel Design
 - Compact, table-top wind tunnel constructed using accessible materials  
@@ -19,7 +19,7 @@ The project combines hands-on engineering, experimental testing, and self-learni
 
 ---
 
-## 🔧 Tools & Workflow
+## Tools & Workflow
 
 - **Build Materials:** Acrylic sheets, ducting, electric fan, mesh/straighteners  
 - **Measurement Methods:** Basic force estimation, flow visualisation  
@@ -28,7 +28,7 @@ The project combines hands-on engineering, experimental testing, and self-learni
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - **Engineering Design & Fabrication:**  
   Prototyping and building experimental setups  
@@ -42,20 +42,20 @@ The project combines hands-on engineering, experimental testing, and self-learni
 
 ---
 
-## 🏎 Motorsport Relevance
+## Motorsport Relevance
 
 Wind tunnels are central to F1 and motorsport for aero optimisation.  
 This project demonstrates resourcefulness, practical problem-solving, and direct relevance to car performance engineering.
 
 ---
 
-## 📸 Visualisation
+##  Visualisation
 
 *(Recommended: add photos/videos of the wind tunnel build and model car testing here for maximum impact.)*
 
 ---
 
-## 🎯 Future Development
+## Future Development
 
 - Add sensors for quantitative drag/downforce measurement  
 - Explore different model geometries (wings, diffusers)  
@@ -63,7 +63,14 @@ This project demonstrates resourcefulness, practical problem-solving, and direct
 
 ---
 
-## 👨‍🔧 Author
+## Author
 
-Developed by **Imaad Javaid** – BSc Physics @ Loughborough University  
-Focused on applying physics, engineering design, and simulation to motorsport.
+**Imaad Javaid**  
+ [Imaad.Javaid@outlook.com](mailto:Imaad.Javaid@outlook.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imaad-javaid-854941369)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IJF1)
+
+---
+
+ *This project is part of my **F1 Simulation Portfolio**, showcasing my passion for motorsport engineering and ability to apply physics + coding to realistic race scenarios.*
